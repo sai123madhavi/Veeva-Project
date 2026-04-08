@@ -1,0 +1,143 @@
+2026-04-08 10:53:56 INFO  pages.LoginPage - Performing login with user: testuser@gmail.com
+2026-04-08 10:53:56 INFO  pages.LoginPage - Opening login page
+2026-04-08 10:53:57 INFO  pages.SignupPage - Starting user registration
+2026-04-08 10:53:57 INFO  pages.CartPage - Starting addProduct flow
+2026-04-08 10:53:57 INFO  pages.CartPage - Opening home page
+2026-04-08 10:53:58 INFO  pages.LoginPage - Login action performed
+2026-04-08 10:53:59 INFO  pages.LoginPage - Login action performed
+2026-04-08 10:53:59 INFO  pages.LoginPage - Checking error message for invalid login
+2026-04-08 10:53:59 INFO  pages.LoginPage - Error displayed: true
+2026-04-08 10:53:59 INFO  pages.CartPage - Page loaded successfully
+2026-04-08 10:53:59 INFO  pages.CartPage - Removed ads/iframes
+2026-04-08 10:54:01 INFO  pages.CartPage - Page loaded successfully
+2026-04-08 10:54:01 INFO  pages.CartPage - Removed ads/iframes
+2026-04-08 10:54:01 INFO  pages.CartPage - Navigated to products page
+2026-04-08 10:54:02 INFO  pages.CartPage - First product added
+2026-04-08 10:54:02 INFO  pages.CartPage - Clicking Continue Shopping
+2026-04-08 10:54:03 INFO  pages.CartPage - Second product added
+2026-04-08 10:54:04 INFO  pages.CartPage - Navigated to products page
+2026-04-08 10:54:05 INFO  pages.SignupPage - Generated email: test1775625845204@gmail.com
+2026-04-08 10:54:05 INFO  pages.CartPage - First product added
+2026-04-08 10:54:05 INFO  pages.CartPage - Clicking Continue Shopping
+2026-04-08 10:54:05 INFO  pages.CartPage - Navigated to cart page
+2026-04-08 10:54:05 INFO  pages.CartPage - Validating product added to cart
+2026-04-08 10:54:06 INFO  pages.CartPage - Product added status: true
+2026-04-08 10:54:06 INFO  pages.CartPage - Second product added
+2026-04-08 10:54:09 INFO  pages.CartPage - Navigated to cart page
+2026-04-08 10:54:09 INFO  pages.CartPage - Removing all products from cart
+2026-04-08 10:54:09 INFO  pages.CartPage - Product removed
+2026-04-08 10:54:10 INFO  pages.CartPage - Product removed
+2026-04-08 10:54:10 INFO  pages.CartPage - All products removed
+2026-04-08 10:54:10 INFO  pages.CartPage - Validating cart is empty
+2026-04-08 10:54:10 INFO  pages.CartPage - Cart empty status: true
+2026-04-08 10:54:11 INFO  pages.SignupPage - User registration form submitted
+2026-04-08 10:54:11 INFO  pages.SignupPage - Validating account creation
+2026-04-08 10:54:11 INFO  pages.SignupPage - Account created status: true
+2026-04-08 11:08:15 INFO  pages.CartPage - Starting addProduct flow
+2026-04-08 11:08:15 INFO  pages.CartPage - Opening home page
+2026-04-08 11:08:20 INFO  pages.LoginPage - Login action performed
+2026-04-08 11:08:24 INFO  pages.SignupPage - Starting user registration
+2026-04-08 11:08:26 INFO  pages.CartPage - Page loaded successfully
+2026-04-08 11:08:26 INFO  pages.CartPage - Removed ads/iframes
+2026-04-08 11:08:26 INFO  pages.CartPage - Navigated to products page
+2026-04-08 11:08:26 INFO  pages.CartPage - First product added
+2026-04-08 11:08:26 INFO  pages.CartPage - Clicking Continue Shopping
+2026-04-08 11:08:28 INFO  pages.LoginPage - Performing login with user: wrong@gmail.com
+2026-04-08 11:08:28 INFO  pages.LoginPage - Opening login page
+2026-04-08 11:08:28 INFO  pages.CartPage - Second product added
+2026-04-08 11:08:32 INFO  pages.CartPage - Navigated to cart page
+2026-04-08 11:08:32 INFO  pages.CartPage - Validating product added to cart
+2026-04-08 11:08:32 INFO  pages.CartPage - Product added status: true
+2026-04-08 11:08:33 INFO  pages.LoginPage - Login action performed
+2026-04-08 11:08:33 INFO  pages.LoginPage - Checking error message for invalid login
+2026-04-08 11:08:33 INFO  pages.LoginPage - Error displayed: true
+2026-04-08 11:08:33 INFO  pages.CartPage - Starting addProduct flow
+2026-04-08 11:08:33 INFO  pages.CartPage - Opening home page
+2026-04-08 11:08:35 INFO  pages.SignupPage - Generated email: test1775626715692@gmail.com
+2026-04-08 11:08:40 INFO  pages.CartPage - Page loaded successfully
+2026-04-08 11:08:40 INFO  pages.CartPage - Removed ads/iframes
+2026-04-08 11:08:40 INFO  pages.CartPage - Navigated to products page
+2026-04-08 11:08:41 INFO  pages.CartPage - First product added
+2026-04-08 11:08:41 INFO  pages.CartPage - Clicking Continue Shopping
+2026-04-08 11:08:43 INFO  pages.CartPage - Second product added
+2026-04-08 11:08:45 INFO  pages.SignupPage - User registration form submitted
+2026-04-08 11:08:45 INFO  pages.SignupPage - Validating account creation
+2026-04-08 11:08:45 INFO  pages.SignupPage - Account created status: true
+2026-04-08 11:08:46 INFO  pages.CartPage - Navigated to cart page
+2026-04-08 11:08:46 INFO  pages.CartPage - Removing all products from cart
+2026-04-08 11:08:46 INFO  pages.CartPage - Product removed
+2026-04-08 11:08:47 INFO  pages.CartPage - Product removed
+2026-04-08 11:08:47 INFO  pages.CartPage - All products removed
+2026-04-08 11:08:47 INFO  pages.CartPage - Validating cart is empty
+2026-04-08 11:08:47 INFO  pages.CartPage - Cart empty status: true
+2026-04-08 11:17:23 INFO  pages.CartPage - Starting addProduct flow
+2026-04-08 11:17:23 INFO  pages.CartPage - Starting addProduct flow
+2026-04-08 11:17:23 INFO  pages.CartPage - Opening home page
+2026-04-08 11:17:23 INFO  pages.CartPage - Opening home page
+2026-04-08 11:17:26 INFO  pages.LoginPage - Login action performed
+2026-04-08 11:17:26 INFO  pages.LoginPage - Checking error message for invalid login
+2026-04-08 11:17:26 INFO  pages.LoginPage - Error displayed: true
+2026-04-08 11:17:26 INFO  pages.LoginPage - Login action performed
+2026-04-08 11:17:28 INFO  pages.CartPage - Page loaded successfully
+2026-04-08 11:17:28 INFO  pages.CartPage - Removed ads/iframes
+2026-04-08 11:17:28 INFO  pages.CartPage - Page loaded successfully
+2026-04-08 11:17:28 INFO  pages.CartPage - Navigated to products page
+2026-04-08 11:17:28 INFO  pages.CartPage - Removed ads/iframes
+2026-04-08 11:17:28 INFO  pages.SignupPage - Generated email: test1775627248840@gmail.com
+2026-04-08 11:17:28 INFO  pages.CartPage - First product added
+2026-04-08 11:17:28 INFO  pages.CartPage - Clicking Continue Shopping
+2026-04-08 11:17:28 INFO  pages.CartPage - Navigated to products page
+2026-04-08 11:17:29 INFO  pages.CartPage - First product added
+2026-04-08 11:17:29 INFO  pages.CartPage - Clicking Continue Shopping
+2026-04-08 11:17:29 INFO  pages.CartPage - Second product added
+2026-04-08 11:17:30 INFO  pages.CartPage - Second product added
+2026-04-08 11:17:31 INFO  pages.CartPage - Navigated to cart page
+2026-04-08 11:17:31 INFO  pages.CartPage - Validating product added to cart
+2026-04-08 11:17:31 INFO  pages.CartPage - Product added status: true
+2026-04-08 11:17:31 INFO  pages.CartPage - Navigated to cart page
+2026-04-08 11:17:31 INFO  pages.CartPage - Removing all products from cart
+2026-04-08 11:17:32 INFO  pages.CartPage - Product removed
+2026-04-08 11:17:32 INFO  pages.CartPage - Product removed
+2026-04-08 11:17:33 INFO  pages.CartPage - All products removed
+2026-04-08 11:17:33 INFO  pages.CartPage - Validating cart is empty
+2026-04-08 11:17:33 INFO  pages.CartPage - Cart empty status: true
+2026-04-08 11:17:34 INFO  pages.SignupPage - User registration form submitted
+2026-04-08 11:17:34 INFO  pages.SignupPage - Validating account creation
+2026-04-08 11:17:34 INFO  pages.SignupPage - Account created status: true
+2026-04-08 11:20:38 INFO  pages.SignupPage - Starting user registration
+2026-04-08 11:20:39 INFO  pages.CartPage - Starting addProduct flow
+2026-04-08 11:20:39 INFO  pages.CartPage - Opening home page
+2026-04-08 11:20:39 INFO  pages.LoginPage - Performing login with user: testuser@gmail.com
+2026-04-08 11:20:39 INFO  pages.LoginPage - Opening login page
+2026-04-08 11:20:39 INFO  pages.LoginPage - Performing login with user: wrong@gmail.com
+2026-04-08 11:20:39 INFO  pages.LoginPage - Opening login page
+2026-04-08 11:20:42 INFO  pages.LoginPage - Login action performed
+2026-04-08 11:20:42 INFO  pages.LoginPage - Login action performed
+2026-04-08 11:20:42 INFO  pages.LoginPage - Checking error message for invalid login
+2026-04-08 11:20:42 INFO  pages.LoginPage - Error displayed: true
+2026-04-08 11:20:43 INFO  pages.CartPage - Page loaded successfully
+2026-04-08 11:20:43 INFO  pages.CartPage - Removed ads/iframes
+2026-04-08 11:20:43 INFO  pages.CartPage - Navigated to products page
+2026-04-08 11:20:43 INFO  pages.CartPage - Page loaded successfully
+2026-04-08 11:20:43 INFO  pages.CartPage - Removed ads/iframes
+2026-04-08 11:20:44 INFO  pages.CartPage - First product added
+2026-04-08 11:20:44 INFO  pages.CartPage - Clicking Continue Shopping
+2026-04-08 11:20:44 INFO  pages.CartPage - Navigated to products page
+2026-04-08 11:20:44 INFO  pages.CartPage - First product added
+2026-04-08 11:20:44 INFO  pages.CartPage - Clicking Continue Shopping
+2026-04-08 11:20:44 INFO  pages.SignupPage - Generated email: test1775627444710@gmail.com
+2026-04-08 11:20:45 INFO  pages.CartPage - Second product added
+2026-04-08 11:20:45 INFO  pages.CartPage - Second product added
+2026-04-08 11:20:47 INFO  pages.CartPage - Navigated to cart page
+2026-04-08 11:20:47 INFO  pages.CartPage - Removing all products from cart
+2026-04-08 11:20:47 INFO  pages.CartPage - Navigated to cart page
+2026-04-08 11:20:47 INFO  pages.CartPage - Validating product added to cart
+2026-04-08 11:20:47 INFO  pages.CartPage - Product added status: true
+2026-04-08 11:20:47 INFO  pages.CartPage - Product removed
+2026-04-08 11:20:48 INFO  pages.CartPage - Product removed
+2026-04-08 11:20:48 INFO  pages.CartPage - All products removed
+2026-04-08 11:20:48 INFO  pages.CartPage - Validating cart is empty
+2026-04-08 11:20:49 INFO  pages.CartPage - Cart empty status: true
+2026-04-08 11:20:50 INFO  pages.SignupPage - User registration form submitted
+2026-04-08 11:20:50 INFO  pages.SignupPage - Validating account creation
+2026-04-08 11:20:50 INFO  pages.SignupPage - Account created status: true
